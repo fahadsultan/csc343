@@ -1,8 +1,8 @@
-# CSC-343 Artificial Intelligence
-# Spring 2023
-# Furman University
+# CSC-343 Artificial Intelligence (Spring 2023) 
 
-## [Course Website] (https://fahadsultan.github.io/csc343/)
+### Furman University
+
+### [Course Website](https://fahadsultan.github.io/csc343/)
 
 
 ### Textbook
@@ -12,7 +12,9 @@
 ### Other Resources
 
 *   [Jupyter Notebook User Guide](https://jupyter-notebook.readthedocs.io/en/stable/)
-[](https://jupyter-notebook.readthedocs.io/en/stable/)*   [**Python**:](https://jupyter-notebook.readthedocs.io/en/stable/) [How to Think Like a Computer Scientist](https://www.cs.swarthmore.edu/courses/CS21Book/) (Swarthmore Edition) by Jeffrey Elkner, Allen B. Downey, and Chris Meyers (free, open textbook)
+[](https://jupyter-notebook.readthedocs.io/en/stable/)
+
+*   [**Python**:](https://jupyter-notebook.readthedocs.io/en/stable/) [How to Think Like a Computer Scientist](https://www.cs.swarthmore.edu/courses/CS21Book/) (Swarthmore Edition) by Jeffrey Elkner, Allen B. Downey, and Chris Meyers (free, open textbook)
 
 ### Class Meeting Times
 
@@ -23,7 +25,6 @@ Mondays, Wednesdays, Fridays
 _**Lab:**_ Riley Hall 203  
 Thursdays  
 2:30 PM - 4:30 PM  
-
   
 
 ### Instructor Information
@@ -62,56 +63,21 @@ On successful completion of the course, the students should have the ability to 
 (Subject to change,  
 letter grade +/- at instructor's discretion)  
   
-
-A
-
-grade >= 90%
-
-B
-
-80% <= grade < 90%
-
-C
-
-70% <= grade < 80%
-
-D
-
-60% <= grade < 70%
-
-F
-
-grade < 60%
+A grade >= 90%
+B 80% <= grade < 90%
+C 70% <= grade < 80%
+D 60% <= grade < 70%
+F grade < 60%
 
 ### Grading Specifications
 
-Exam 1
-
-15%
-
-Exam 2
-
-15%
-
-Exam 3
-
-15%
-
-Exam 4 (Final)
-
-15%
-
-Written Assignments
-
-15%
-
-Programming Assignments
-
-15%
-
-Class Participation
-
-10%
+Exam 1  15%
+Exam 2  15%
+Exam 3  15%
+Exam 4 (Final) 15%
+Written Assignments     15%
+Programming Assignments 15%
+Class Participation     10%
 
 ### Minimum Requirements:
 
