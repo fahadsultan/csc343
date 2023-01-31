@@ -63,21 +63,21 @@ On successful completion of the course, the students should have the ability to 
 (Subject to change,  
 letter grade +/- at instructor's discretion)  
   
-A grade >= 90%
-B 80% <= grade < 90%
-C 70% <= grade < 80%
-D 60% <= grade < 70%
-F grade < 60%
+A grade >= 90% <br/>
+B 80% <= grade < 90% <br/> 
+C 70% <= grade < 80% <br/>
+D 60% <= grade < 70% <br/>
+F grade < 60% <br/>
 
 ### Grading Specifications
 
-Exam 1  15%
-Exam 2  15%
-Exam 3  15%
-Exam 4 (Final) 15%
-Written Assignments     15%
-Programming Assignments 15%
-Class Participation     10%
+Exam 1  15% <br/>
+Exam 2  15% <br/>
+Exam 3  15% <br/>
+Exam 4 (Final) 15% <br/>
+Written Assignments     15% <br/>
+Programming Assignments 15% <br/>
+Class Participation     10% <br/>
 
 ### Minimum Requirements:
 
